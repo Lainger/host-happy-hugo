@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: About Host Happy
+title: >
+  ## Hosting made simple.
+
+  You're in full control of availability, rules and who is allowed in your space, we handle everything else.
+content: >
+  ### We take care of the details, 
+  so you don't have to.
+
+  We find, create, and manage one-of-a-kind vacation rentals in beautiful Victoria, British Columbia. Whether you already have a property or are searching for your perfect investment, we are local experts who can help you maximize your returns.
+
+button1Name: Join Us
+button2Name: Get an Estimate
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg

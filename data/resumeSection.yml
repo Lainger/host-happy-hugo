@@ -1,0 +1,58 @@
+---
+enable: true
+topTitle: Join Us
+title: >
+  ## How It Works
+
+  Thinking of working with us but not sure how it works? No problem. We have a step-by-step process to answer all of your questions.
+
+
+  Still have questions? No problem - get in touch! We love to help.
+tab1Name: Set-Up
+tab2Name: Buying
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Get an Estimate
+
+      When we first connect we will ask you a number of questions about your property to find out what your rough returns would look like if your property was converted to a short-term rental, or designed, styled and managed by us.
+    time: Step 1
+  - content: >
+      #### Design Plan
+
+      Once we provide you with an estimate of how much you can expect to earn with us, we get perform an inspection of your property and develop a design customized to your space, your personal taste, and the expected target market for your space.
+    time: Step 2
+  - content: >
+      #### Master in Arts
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010
+  - content: >
+      #### Master in Arts
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010
+
+experience:
+  - content: >
+      #### Umbrella co. 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2016-Present
+  - content: >
+      #### Aperture Science 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2010-2016
+  - content: >
+      #### ACME Inc. 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2005-2010
+  - content: >
+      #### LexCorp 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2001-2005

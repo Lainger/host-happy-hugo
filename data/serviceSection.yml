@@ -1,0 +1,38 @@
+---
+enable: true
+topTitle: What we do for you
+title: >
+  ## Our Services
+
+  From designing and styling your space, to taking professional photos, creating your listing and welcoming guests, we take care of it all.
+service:
+  - content: >
+      #### Design & Layout
+
+      Our in-house designers will develop a layout to maximize the square footage of your space and highlight its best features.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Business License & Insurance
+
+      We ensure every Host Happy property obtains a business license and comprehensive insurance so you can rest easy.
+    image: images/service/web.svg
+  - content: >
+      #### Professional Photographs
+
+      Our in-house photographers capture the true beauty of your newly-designed space.
+    image: images/service/creative.svg
+  - content: >
+      #### Guest Communication
+
+      Our friendly team will be in touch with your guests from the moment they book to the moment they leave.
+    image: images/service/branding.svg
+  - content: >
+      #### Cleaning & Restocking
+
+      Never worry if you have toilet paper ever again. Our COVID19-trained cleaners leave your space spick and span and ready for your next guest.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Maintenance & Repairs
+
+      We're owners too. That's why we perform yearly preventative maintenance and handle repairs immediately with our on-call contractors.
+    image: images/service/web.svg

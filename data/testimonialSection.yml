@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: The Host Happy Difference
+title: >
+  ## What Do Guests Think?
+
+testimonial:
+  - name: April
+    comment: This home is more beautiful than photos even show! It was in the perfect location with a patio on the buildings roof. The vibe and decor exceeded my expectations. The host made sure it had everything I needed and that my check in was easy and smooth! I will definitely be staying again... Hopefully very soon.
+    time: St. Albert, Canada
+    star: 5
+  - name: Mike
+    comment: Totally blown away by the tasteful decor and vibe of the loft! You can tell the host put a lot of energy and love to designing a stylish and cozy spot in a great location! Going to try to stay there again ASAP!
+    time: Victoria, Canada
+    star: 5
+  - name: Emily
+    comment: Such a great host & the place is absolutely amazing. Great location and the host has added so many great additions to make you feel right at home while you’re there. We can’t wait to come back!
+    time: Kamloops, Canada
+    star: 5

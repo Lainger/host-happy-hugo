@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: What to expect
+content: >
+  ## Why work with us?
+
+  We are local experts, with proven results. We pride ourselves on our superior design and customer service, and our focus on local and sustainable products in all of our rentals. This translates to more guests, repeat visits, and more returns.
+
+image: images/skill/skill_image.jpg
+
+skill:
+  - title: Average occupany rate
+    percent: 98
+  - title: Average star rating
+    percent: 95
+  - title: Revenue increase after joining Host Happy
+    percent: 29
