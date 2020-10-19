@@ -1,7 +1,7 @@
 ---
-title: "How to become acreative designer"
+title: "What to do when AirBnB denies your Host Guarantee claim"
 date: 2020-07-13T12:49:27+06:00
-featureImage: images/allpost/allPost-9.jpg
+featureImage: images/allpost/allPost-3.jpg
 postImage: images/single-blog/feature-image.jpg
 ---
 

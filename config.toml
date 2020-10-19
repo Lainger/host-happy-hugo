@@ -4,34 +4,36 @@ paginate = 6
 theme = "portio"
 title = "Host Happy"
 # Main Menu
+
 [[menu.main]]
-name = "Home"
-url = "#home"
+name = "How to Start"
+url = "#resume"
 weight = 1
+
 [[menu.main]]
-name = "About"
-url = "#about"
+name = "Safety"
+url = "#portfolio"
 weight = 2
+
 [[menu.main]]
 name = "Services"
 url = "#service"
 weight = 3
+
 [[menu.main]]
-name = "Work"
-url = "#portfolio"
+name = "About Us"
+url = "#about"
 weight = 4
+
 [[menu.main]]
-name = "Resume"
-url = "#resume"
-weight = 5
-[[menu.main]]
-name = "Blog"
+name = "Resources"
 url = "#blog"
-weight = 6
-[[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 7
+weight = 5
+
+
+
+
+
 
 # Sitemap Menu
 [[menu.sitemap]]

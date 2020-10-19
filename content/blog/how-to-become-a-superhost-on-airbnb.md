@@ -1,7 +1,7 @@
 ---
-title: "Designer Conference at Florida 2020"
-date: 2020-07-13T13:06:26+06:00
-featureImage: images/allpost/allPost-2.jpg
+title: "How to become a SuperHost on AirBnB"
+date: 2020-07-13T12:49:27+06:00
+featureImage: images/allpost/allPost-9.jpg
 postImage: images/single-blog/feature-image.jpg
 ---
 

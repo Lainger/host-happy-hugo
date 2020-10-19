@@ -1,7 +1,7 @@
 ---
-title: "Designers thoughts about mobile UI"
-date: 2020-07-13T12:49:27+06:00
-featureImage: images/allpost/allPost-5.jpg
+title: "Cleaning in the age of COVID-19"
+date: 2020-07-13T13:06:26+06:00
+featureImage: images/allpost/allPost-2.jpg
 postImage: images/single-blog/feature-image.jpg
 ---
 
